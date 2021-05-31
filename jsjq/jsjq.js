@@ -64,7 +64,7 @@
 
           });
           $(".sea input").css({
-        "background-image": "url('../image/돋보기.jpg')",
+        "background-image": "url('./image/돋보기.jpg')",
             "background-repeat": "no-repeat",
             "background-size": "30px 30px",
             "background-position": "100% 50%",
