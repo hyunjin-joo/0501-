@@ -60,7 +60,7 @@
            "background-image": "url('./image/s.jpg')",
             "background-repeat": "no-repeat",
             "background-size":"50px 50px",
-            "background-position" :"3% 50%"
+            "background-position" :"13% 50%"
 
           });
           $(".sea input").css({
