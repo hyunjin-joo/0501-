@@ -57,7 +57,7 @@
             "width":"100%",
             "position":"fixed",
             "margin-top" : "-58px",
-           "background-image": "url('./image/s.jpg')",
+           "background-image": "url('../image/s.jpg')",
             "background-repeat": "no-repeat",
             "background-size":"50px 50px",
             "background-position" :"3% 50%"
